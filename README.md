@@ -7,6 +7,7 @@ Group Members: George Wang, Yanzheng Wu, Yi Chen
 
 ## About The Project
 This project employs two approaches to perform sentiment analysis on movie reviews. The first approach is utilized by Naive Bayes classifier, and moreover a Markov Chain Text Generator was developed to create synthetic movie reviews. The second solution is based on a discriminative neural network, which combines Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs). Our goal is to accurately classify reviews as either positive or negative.
+Click [here](/IDS703_Final_project.pdf) to read our report.
 
 ## Dataset
 The dataset we choosed consists of movie reviews labeled as positive or negative.
